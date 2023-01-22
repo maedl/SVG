@@ -19,10 +19,6 @@ body {
   width: 100vw;
 }
 
-svg {
-  width: 20%;
-}
-
 button {
   border-radius: 3px;
   background-color: rgba(253, 232, 232, 1);
